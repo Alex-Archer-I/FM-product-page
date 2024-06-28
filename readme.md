@@ -9,4 +9,4 @@ Tech stack:
 - Tailwind
 - Vite
 
-Live site - just [here]().
+Live site - just [here](https://alex-archer-i.github.io/product-card/).
